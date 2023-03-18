@@ -1,0 +1,7 @@
+{
+    "BOT_TOKEN": "YOUR_TOKEN_BOT",
+    "MAX_TOKEN": 400,
+    "OPENAI_APIKEY": "YOUR_OPENAI_KEY",
+    "OWNER_ID": ["YOUR_OWNER_ID_TELEGRAM Get on @cektelegramid"],
+    "debug": false 
+  }
