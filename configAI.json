@@ -1,7 +1,7 @@
 {
-    "BOT_TOKEN": "YOUR_TOKEN_BOT",
-    "MAX_TOKEN": 400,
-    "OPENAI_APIKEY": "YOUR_OPENAI_KEY",
-    "OWNER_ID": ["YOUR_OWNER_ID_TELEGRAM Get on @cektelegramid"],
+    "BOT_TOKEN": "6014185027:AAExNp4dojUNFipp4OAu9LUoc0DTYW3d69Y",
+    "MAX_TOKEN": 2000,
+    "OPENAI_APIKEY": "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",
+    "OWNER_ID": ["1365766425"],
     "debug": false 
   }
